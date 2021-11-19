@@ -1,6 +1,5 @@
 ### Opa! Me chamo João 👋
-
-- 🌱 Estudando Java e JavaScript
+- 💻 Estudando Java e JavaScript
 - 💬 Contate-me no e-mail: joaolinnyker50@gmail.com
 
 <div align="center">
