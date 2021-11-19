@@ -1,4 +1,7 @@
 ### Opa! Me chamo João 👋 
+- 💻 Estudando Java e JavaScript
+- 💬 Contate-me no e-mail: joaolinnyker50@gmail.com
+- 📖 Study Group #GoAHead
 
 ##
 
