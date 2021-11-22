@@ -4,7 +4,8 @@
 - 📖 Study Group #GoAHead
 
 ##
- <a href="https://github.com/LinnykerJ/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LinnykerJ&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Linnyker's github stats" /></a> <a href="https://github.com/LinnykerJ/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinnykerJ&layout=compact&theme=buefy&hide_border=true" /></a> 
+<a href="https://github.com/LinnykerJ/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LinnykerJ&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Linnyker's github stats" /></a> 
+<a href="https://github.com/LinnykerJ/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinnykerJ&layout=compact&theme=buefy&hide_border=true" /></a> 
   
 <div style="display: inline_block"><br>
   <img align="center" alt="João-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
