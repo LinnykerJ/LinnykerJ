@@ -18,6 +18,7 @@
   <img align="right" alt="Linnyker-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/330813818085310476/911357590368292954/b3a45e07222b8be77ade801fb4a03b0a.gif">
 </div>
   
+  
   ##
   
   
