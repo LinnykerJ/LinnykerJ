@@ -1,7 +1,8 @@
 ### Opa! Me chamo João 👋 
-- 💻 Estudando Java e JavaScript
+- 📚 Estudando Java e JavaScript
 - 💬 Contate-me no e-mail: joaolinnyker50@gmail.com
-- 📖 Study Group #GoAHead
+- 💻 Você pode ver meu portfolio em: https://vercel.com/linnyker
+- 📖 Study Group #GoAHead 
 
 ##
 <a href="https://github.com/LinnykerJ/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LinnykerJ&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Linnyker's github stats" /></a> 
