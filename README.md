@@ -1,5 +1,5 @@
 ### Opa! Me chamo João 👋 
-- 📚 Estudando Java e JavaScript
+- 📚 Estudante de Cybersegurança
 - 💬 Contate-me no e-mail: joaolinnyker50@gmail.com
 - 💻 Você pode ver meu portfolio em: https://vercel.com/linnyker
 - 📖 Study Group #GoAHead 
