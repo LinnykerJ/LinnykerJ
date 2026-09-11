@@ -7,7 +7,7 @@
 ### 👨‍💻 Sobre Mim
 * 🎓 **Estudante de Cybersegurança** focado em Segurança Defensiva e Mitigação de Riscos.
 * 👥 Ativo no Study Group **#GoAhead**.
-* 🌐 Confira meu portfólio completo em: [://vercel.com](https://://vercel.com)
+* 🌐 Confira meu portfólio completo em: 
 
 ---
 
