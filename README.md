@@ -12,11 +12,12 @@
 ---
 
 ### 🛠️ Tech Stack & Ferramentas
-* 🐧 **Sistemas:** `Linux` (Kali Linux / Ubuntu)
-* 📦 **Contêineres:** `Docker` | `Podman`
-* 🌐 **Servidores Web & WAF:** `Nginx` | `ModSecurity`
-* 📜 **Linguagens & Scripts:** `JavaScript` | `Bash Scripting`
-* 🎨 **Front-End:** `HTML5` | `CSS3`
+* 🐧 **Sistemas Operacionais:** `Linux` (Kali Linux / Ubuntu) | `Windows 10/11` (Lab Alvo)
+* 🎮 **Plataformas de Laboratório:** `Hack The Box` | `TryHackMe`
+* 📦 **Contêineres & Ambientes:** `Docker` | `Podman` | `VirtualBox`
+* 🌐 **Servidores & Defesa:** `Nginx` | `ModSecurity v3` | `OWASP CRS`
+* 📜 **Linguagens & Scripts:** `Python 3` (Sockets e Automação) | `JavaScript` | `Bash`
+* 🛠️ **Ferramentas de Rede:** `Netcat` (Listeners) | `Curl` (Auditoria de Tráfego)
 
 ---
 
