@@ -22,5 +22,5 @@
 ---
 
 ### 📬 Contato
-* 💼 **LinkedIn:** [Clique aqui para acessar meu perfil](https://linkedin.com)
+* 💼 **LinkedIn:** [Clique aqui para acessar meu perfil]([https://linkedin.com](https://www.linkedin.com/in/joaolinnyker/))
 * 📧 **Gmail:** [joaolinnyker50@gmail.com](mailto:joaolinnyker50@gmail.com)
