@@ -12,14 +12,11 @@
 ---
 
 ### 🛠️ Tech Stack & Ferramentas
-<p left>
-  <img src="https://shields.io" alt="Linux" />
-  <img src="https://shields.io" alt="Docker" />
-  <img src="https://shields.io" alt="Nginx" />
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
-</p>
+* 🐧 **Sistemas:** `Linux` (Kali Linux / Ubuntu)
+* 📦 **Contêineres:** `Docker` | `Podman`
+* 🌐 **Servidores Web & WAF:** `Nginx` | `ModSecurity`
+* 📜 **Linguagens & Scripts:** `JavaScript` | `Bash Scripting`
+* 🎨 **Front-End:** `HTML5` | `CSS3`
 
 ---
 
