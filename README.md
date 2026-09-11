@@ -21,20 +21,6 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
-<p left>
-  <img src="https://vercel.app" alt="Estatísticas do GitHub" height="180em" />
-  <img src="https://vercel.app" alt="Linguagens Mais Usadas" height="180em" />
-</p>
-
----
-
 ### 📬 Contato
-<p left>
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-  <a href="mailto:joaolinnyker50@gmail.com">
-    <img src="https://shields.io" alt="Gmail" />
-  </a>
-</p>
+* 💼 **LinkedIn:** [Clique aqui para acessar meu perfil](https://linkedin.com)
+* 📧 **Gmail:** [joaolinnyker50@gmail.com](mailto:joaolinnyker50@gmail.com)
